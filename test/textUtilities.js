@@ -1,6 +1,7 @@
 var expect = require('chai').expect;
 
 function titleCase(title){
+    // list of words to NOT capitalize
     let connectionWords = ["of", "and", "from", "in", "on", "a", "the"];
     let words = title.split(' ');
     let titleCaseWords = words.map(function(word, index){
