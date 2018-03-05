@@ -1,0 +1,28 @@
+{
+  "name": "javascript-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utilities.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickBr0wn/javascript-unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickBr0wn/javascript-unit-testing/issues"
+  },
+  "homepage": "https://github.com/RickBr0wn/javascript-unit-testing#readme"
+}
